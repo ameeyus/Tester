@@ -7,3 +7,13 @@ c:\users\ameey\onedrive\документы\visual studio 2012\Projects\WindowsFo
 c:\users\ameey\onedrive\документы\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 c:\users\ameey\onedrive\документы\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 c:\users\ameey\onedrive\документы\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\gdhal\OneDrive\Рабочий стол\Новая папка\new\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
