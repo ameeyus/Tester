@@ -7,6 +7,7 @@ namespace WindowsFormsApplication1
     {
         private int CurrentIndex = 0;
         private string CurrentQuery = string.Empty;
+        private int CorrectCount = 0;
 
         private readonly string[] Questions = new string[]
         {
@@ -63,7 +64,8 @@ namespace WindowsFormsApplication1
             }
             else
             {
-                MessageBox.Show("Тест завершен!");
+                MessageBox.Show($"Тест завершен! Правильных ответов: {CorrectCount} из {Questions.Length}");
+                this.Close();
             }
         }
 
@@ -88,6 +90,7 @@ namespace WindowsFormsApplication1
 
                 if (selectedAnswer == CorrectAnswers[CurrentIndex])
                 {
+                    CorrectCount++;
                     MessageBox.Show("Правильный ответ!");
                 }
                 else
